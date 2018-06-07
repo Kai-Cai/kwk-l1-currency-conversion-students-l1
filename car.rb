@@ -1,4 +1,4 @@
-class Class
+class Car
   
   def initialize(make, model, color = "white")
   @make = make
