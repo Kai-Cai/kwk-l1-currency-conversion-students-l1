@@ -18,6 +18,10 @@ class Car
     @color
   end
   
+  def horn
+    return "BEEEEEEP!!!"
+  end
+  
 end 
 
   
