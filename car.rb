@@ -6,6 +6,14 @@ class Car
   @color = color
   end
   
+  def make
+    @make
+  end
+  
+  def model
+    @model
+  end
+  
   def color
     @color
   end
@@ -20,4 +28,4 @@ end
   
   car_1 = Car.new("Jeep", "wrangler", "white")
   
-  puts car_1.color
+  puts car_1.make
