@@ -23,13 +23,8 @@ class Car
   end
   
 end 
-
-  
-  
-  
-  
   
   
   car_1 = Car.new("Jeep", "wrangler", "white")
   
-  puts car_1.make
+  puts car_1.horn
