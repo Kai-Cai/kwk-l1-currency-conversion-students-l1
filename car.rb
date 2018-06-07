@@ -20,4 +20,4 @@ end
   
   car_1 = Car.new("Jeep", "wrangler", "white")
   
-  puts car_1
+  puts car_1.color
